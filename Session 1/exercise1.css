@@ -1,0 +1,39 @@
+.title1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title2{
+    font-size: 150px;
+    text-align: center;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.paragraph1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.paragraph2{
+    font-size: 25px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.p3{
+    font-size: 14px;
+    padding: 0px 0px 0px 30px;
+}
+
+.poem{
+    width: 300px;
+    word-wrap:break-word;
+    white-space: pre-wrap;
+}
+
+.image{
+    text-align: center;
+}
